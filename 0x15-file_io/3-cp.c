@@ -32,7 +32,7 @@ char *create_buffer(char *file)
  *
  * Return: A pointer to the buffer that is allocated.
  */
-char *create_buffer(char *file)
+char *create_buffer0(char *file)
 {
 	char *buffer;
 
